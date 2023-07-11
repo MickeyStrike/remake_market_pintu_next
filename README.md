@@ -1,5 +1,5 @@
 # Remake Market Pintu
-
+Dibuat menggunakan NextJs 13.4.9
 ## Langkah Untuk Memulai Mode Developer
 
 Di dalam project directory, kamu dapat menjalankan:
@@ -7,14 +7,14 @@ Di dalam project directory, kamu dapat menjalankan:
 ### `npm install`
 npm install untuk menginstall package yang digunakan pada apps ini.
 
-### `npm start`
+### `npm run dev`
 
-npm start untuk menjalankan app pada mode development.\
+npm run dev untuk menjalankan app pada mode development.\
 Buka [http://localhost:3000](http://localhost:3000) untuk melihat di browser.
 
 # Online Akses
 Selain akses lokal atau mode developer kita juga dapat mengakses website ini secara online berikut merupakan linknya:
-[https://remake-market-pintu.vercel.app/market](https://remake-market-pintu.vercel.app/market)
+[https://remake-market-pintu-next.vercel.app/market](https://remake-market-pintu.vercel.app/market)
 
 # Penjelasan Singkat Apps
 Di dalam project ini terdapat 2 tampilan yaitu :

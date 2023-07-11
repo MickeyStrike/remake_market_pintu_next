@@ -14,7 +14,7 @@ Buka [http://localhost:3000](http://localhost:3000) untuk melihat di browser.
 
 # Online Akses
 Selain akses lokal atau mode developer kita juga dapat mengakses website ini secara online berikut merupakan linknya:
-[https://remake-market-pintu-next.vercel.app/market](https://remake-market-pintu.vercel.app/market)
+[https://remake-market-pintu-next.vercel.app/market](https://remake-market-pintu-next.vercel.app/market)
 
 # Penjelasan Singkat Apps
 Di dalam project ini terdapat 2 tampilan yaitu :

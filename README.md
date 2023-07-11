@@ -62,3 +62,15 @@ User dapat merubah persentase harga dalam 24 Jam, 1 Minggu, 1 Bulan, dan 1 Tahun
 ### `Section Table`
 Di bawahnya terdapat sebuah tabel yang digunakan untuk menampilkan data secara rapi dan terstruktur.
 Terdapat juga fungsi pengurutan di dalam tabel, yang memungkinkan pengguna untuk mengurutkan data sesuai dengan preferensi mereka.
+
+## Kenapa pakai NextJS ?
+Project ini merupakan lanjutan dari project sebelumnya yaitu:
+
+Github:
+
+[https://github.com/MickeyStrike/remake_market_pintu](https://github.com/MickeyStrike/remake_market_pintu)
+Online:
+
+[https://remake-market-pintu.vercel.app/market](https://remake-market-pintu.vercel.app/market)
+
+dikarenakan project diatas hanya menggunakan react, terdapat beberapa kendala yaitu ketika hit endpoint pintu terkena CORS yang dimana memerlukan server untuk hit endpoint tersebut sebagai proxy. Dikarenakan keterbatasan waktu & kendala yang sudah dijelaskan maka diputuskan untuk membuat project ini dengan menggunakan NextJs 13.4.9

@@ -10,8 +10,7 @@ export async function generateMetadata() {
     title: 'Harga Crypto Hari Ini | Pintu',
     description: 'Harga Crypto Hari Ini | Pintu',
     icons: {
-      icon: '/logo192.png',
-      shortcut: '/logo192.png',
+      icon: '/icon.png',
       apple: '/apple-icon.png',
     },
   };

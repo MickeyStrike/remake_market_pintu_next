@@ -19,7 +19,7 @@ export default function Headers() {
           <Link href='/ikut-kami'>Ikuti Kami</Link>
           <Link href='/blog-news'>Blog & News</Link>
           <Link href='/karier'>Karier</Link>
-          <span className='flex flex-row gap-[0.375rem]'>
+          <span className='flex flex-row gap-[0.375rem] cursor-pointer'>
             <ID />
             ID
             <div className='rotate-180 flex items-center'>

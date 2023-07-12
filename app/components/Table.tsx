@@ -1,5 +1,4 @@
 import React, { FC } from 'react'
-// import Bitcoin from '../assets/svg/Bitcoin'
 import FilterUp from '../assets/svg/FilterUp'
 import FilterDown from '../assets/svg/FilterDown'
 import { useStoreContext } from '@/store'

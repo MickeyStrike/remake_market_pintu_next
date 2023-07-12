@@ -33,7 +33,9 @@ const SubHeader:FC<ISubHeader> = ({ getData }) => {
               }}
             />
           </div>
-          <button className='max-md:hidden font-semibold rounded-md max-xl:text-sm text-md p-1 px-3 border flex flex-row items-center justify-center gap-2' onClick={() => getData(false)}>
+          <button
+            className='max-md:hidden font-semibold rounded-md max-xl:text-sm text-md p-1 px-3 border flex flex-row items-center justify-center gap-2 hover:bg-slate-100 active:bg-slate-300'
+            onClick={() => getData(false)}>
             <Reload /> Refresh Data
           </button>
 

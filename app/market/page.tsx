@@ -123,7 +123,7 @@ const Market:NextPage = () => {
         <TagSection />
         <div className='md:hidden flex justify-between mt-2'>
           <div>
-            <button className='font-semibold rounded-md text p-1 px-3 border flex flex-row items-center justify-center gap-2' onClick={() => getData(false)}>
+            <button className='font-semibold rounded-md text p-1 px-3 border flex flex-row items-center justify-center gap-2 hover:bg-slate-100 active:bg-slate-300' onClick={() => getData(false)}>
               <Reload /> Refresh
             </button>
           </div>
